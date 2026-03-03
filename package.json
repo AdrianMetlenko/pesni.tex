@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "dependencies": {
+    "execa": "^9.6.1",
+    "fs-extra": "^11.3.4",
+    "path": "^0.12.7"
+  }
+}
