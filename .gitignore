@@ -1,6 +1,9 @@
 # Dependency directories
 node_modules/
 
+# Build directory
+build/
+
 # Output PDF directory (if it's intended to be generated/stored there)
 pdf/
 
