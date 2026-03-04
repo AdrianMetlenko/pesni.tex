@@ -10,14 +10,35 @@ async function build() {
     await fs.copy(srcDir, buildDir);
 
     // Compile LilyPond files
-    await execa("lilypond", ["music/example.ly"], { cwd: buildDir });
+    console.log("Compiling LilyPond files...");
+    await execa("lilypond", ["-o", "music/example", "music/example.ly"], { cwd: buildDir, stdio: "inherit" });
 
     // Compile LaTeX
+    console.log("Compiling LaTeX (pass 1)...");
     const pdflatexPath = process.env.PDFLATEX_PATH || "pdflatex";
-    await execa(pdflatexPath, ["main.tex"], { cwd: buildDir });
-    await execa(pdflatexPath, ["main.tex"], { cwd: buildDir }); // run twice for TOC etc.
+    await execa(pdflatexPath, ["-interaction=nonstopmode", "main.tex"], { cwd: buildDir, stdio: "inherit" });
+    console.log("Compiling LaTeX (pass 2)...");
+    await execa(pdflatexPath, ["-interaction=nonstopmode", "main.tex"], { cwd: buildDir, stdio: "inherit" }); // run twice for TOC etc.
 
     console.log("PDF generated in build/");
+    
+    // Create index.html redirecting to the PDF
+    const indexContent = `<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=main.pdf" />
+    <title>Redirecting to PDF...</title>
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="main.pdf">click here to view the PDF</a>.</p>
+  </body>
+</html>`;
+    await fs.writeFile(path.join(buildDir, "index.html"), indexContent);
+    console.log("index.html redirect created in build/");
+
+    // Add .nojekyll to ensure GitHub Pages serves the files correctly
+    await fs.ensureFile(path.join(buildDir, ".nojekyll"));
+    console.log(".nojekyll created in build/");
 }
 
 build().catch(err => {
