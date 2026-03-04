@@ -1,6 +1,6 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.3.4)  4 MAR 2026 09:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.3.4)  4 MAR 2026 10:26
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **pesni.tex
 (./pesni.tex
@@ -114,43 +114,43 @@ File: gloss-english.ldf polyglossia: module for English
 Package polyglossia Info: Option: English, variant=american.
 )
 
-Package fontspec Info: Font family 'LiberationSerif(0)' created for font
-(fontspec)             'Liberation Serif' with options [Ligatures=TeX].
+Package fontspec Info: Font family 'PTSerif(0)' created for font 'PT Serif'
+(fontspec)             with options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Liberation
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"PT
 (fontspec)             Serif/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Liberation
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"PT
 (fontspec)             Serif/B/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Liberation
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"PT
 (fontspec)             Serif/I/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Liberation
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"PT
 (fontspec)             Serif/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: Font family 'LiberationSerif(1)' created for font
-(fontspec)             'Liberation Serif' with options [].
+Package fontspec Info: Font family 'PTSerif(1)' created for font 'PT Serif'
+(fontspec)             with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Liberation
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"PT
 (fontspec)             Serif/OT:script=latn;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Liberation
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"PT
 (fontspec)             Serif/B/OT:script=latn;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Liberation
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"PT
 (fontspec)             Serif/I/OT:script=latn;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Liberation
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"PT
 (fontspec)             Serif/BI/OT:script=latn;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
@@ -175,147 +175,3612 @@ File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-\@indexfile=\write3
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count274
+\mult@box=\box52
+\multicol@leftmargin=\dimen146
+\c@unbalance=\count275
+\c@collectmore=\count276
+\doublecol@number=\count277
+\multicoltolerance=\count278
+\multicolpretolerance=\count279
+\full@width=\dimen147
+\page@free=\dimen148
+\premulticols=\dimen149
+\postmulticols=\dimen150
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen151
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count280
+\c@columnbadness=\count281
+\c@finalcolumnbadness=\count282
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count283
+))
+\pesni@idxfile=\write3
 \openout3 = `pesni.idx'.
 
 
 Writing index file pesni.idx
+\artists@idxfile=\write4
+\openout4 = `artists.idx'.
+
+Writing index file artists.idx
 (./pesni.aux)
 \openout1 = `pesni.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-6.
+7.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 16.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 16.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 16.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 16.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 16.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 16.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 16.
-LaTeX Font Info:    Redeclaring math accent \check on input line 16.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 16.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 16.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 16.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 16.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 16.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 17.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 17.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 17.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 17.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 17.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 17.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 17.
+LaTeX Font Info:    Redeclaring math accent \check on input line 17.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 17.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 17.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 17.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 17.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 17.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 16.
+(Font)              `operators' in the math version `normal' on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/LiberationSerif(0)/m/n on input line
- 16.
+(Font)                  OT1/cmr/m/n --> TU/PTSerif(0)/m/n on input line 17.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 16.
+(Font)              `operators' in the math version `bold' on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/LiberationSerif(0)/m/n on input lin
-e 16.
+(Font)                  OT1/cmr/bx/n --> TU/PTSerif(0)/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/LiberationSerif(0)/m/n --> TU/LiberationSerif(0)/m/n
- on input line 16.
+(Font)                  TU/PTSerif(0)/m/n --> TU/PTSerif(0)/m/n on input line 1
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/LiberationSerif(0)/m/it on input li
-ne 16.
+(Font)                  OT1/cmr/m/it --> TU/PTSerif(0)/m/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/LiberationSerif(0)/b/n on input lin
-e 16.
+(Font)                  OT1/cmr/bx/n --> TU/PTSerif(0)/b/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 16.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 16.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 17.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/LiberationSerif(0)/m/n --> TU/LiberationSerif(0)/b/n
- on input line 16.
+(Font)                  TU/PTSerif(0)/m/n --> TU/PTSerif(0)/b/n on input line 1
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/LiberationSerif(0)/b/it on input l
-ine 16.
+(Font)                  OT1/cmr/bx/it --> TU/PTSerif(0)/b/it on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 16.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 16.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 18.
+(Font)              <12> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 19.
  [1
 
 ]
-(./pesni.toc)
-\tf@toc=\write4
-\openout4 = `pesni.toc'.
-
- [2
-
-] (./pesni.ind [3
-
-
-
-]) (./songs.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
-
- []
-
-[4
-
+(./pesni.toc [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 53--57
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+[3] [4]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+
+Overfull \hbox (1.95pt too wide) detected at line 102
+\TU/PTSerif(1)/b/n/10 100 
+ []
+
+[5]
+Overfull \hbox (1.95pt too wide) detected at line 103
+\TU/PTSerif(1)/b/n/10 101 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 104
+\TU/PTSerif(1)/b/n/10 102 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 105
+\TU/PTSerif(1)/b/n/10 103 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 106
+\TU/PTSerif(1)/b/n/10 104 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 107
+\TU/PTSerif(1)/b/n/10 105 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 108
+\TU/PTSerif(1)/b/n/10 106 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 109
+\TU/PTSerif(1)/b/n/10 107 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 110
+\TU/PTSerif(1)/b/n/10 108 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 111
+\TU/PTSerif(1)/b/n/10 109 
+ []
+
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+
+Overfull \hbox (1.95pt too wide) detected at line 112
+\TU/PTSerif(1)/b/n/10 110 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 113
+\TU/PTSerif(1)/b/n/10 111 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 114
+\TU/PTSerif(1)/b/n/10 112 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 115
+\TU/PTSerif(1)/b/n/10 113 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 116
+\TU/PTSerif(1)/b/n/10 114 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 117
+\TU/PTSerif(1)/b/n/10 115 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 118
+\TU/PTSerif(1)/b/n/10 116 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 119
+\TU/PTSerif(1)/b/n/10 117 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 120
+\TU/PTSerif(1)/b/n/10 118 
+ []
+
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+
+Overfull \hbox (1.95pt too wide) detected at line 121
+\TU/PTSerif(1)/b/n/10 119 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 122
+\TU/PTSerif(1)/b/n/10 120 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 123
+\TU/PTSerif(1)/b/n/10 121 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 124
+\TU/PTSerif(1)/b/n/10 122 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 125
+\TU/PTSerif(1)/b/n/10 123 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 126
+\TU/PTSerif(1)/b/n/10 124 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 127
+\TU/PTSerif(1)/b/n/10 125 
+ []
+
+[6]
+Overfull \hbox (1.95pt too wide) detected at line 128
+\TU/PTSerif(1)/b/n/10 126 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 129
+\TU/PTSerif(1)/b/n/10 127 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 130
+\TU/PTSerif(1)/b/n/10 128 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 131
+\TU/PTSerif(1)/b/n/10 129 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 132
+\TU/PTSerif(1)/b/n/10 130 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 133
+\TU/PTSerif(1)/b/n/10 131 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 134
+\TU/PTSerif(1)/b/n/10 132 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 135
+\TU/PTSerif(1)/b/n/10 133 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 136
+\TU/PTSerif(1)/b/n/10 134 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 137
+\TU/PTSerif(1)/b/n/10 135 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 138
+\TU/PTSerif(1)/b/n/10 136 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 139
+\TU/PTSerif(1)/b/n/10 137 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 140
+\TU/PTSerif(1)/b/n/10 138 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 141
+\TU/PTSerif(1)/b/n/10 139 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 142
+\TU/PTSerif(1)/b/n/10 140 
+ []
+
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+
+Overfull \hbox (1.95pt too wide) detected at line 143
+\TU/PTSerif(1)/b/n/10 141 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 144
+\TU/PTSerif(1)/b/n/10 142 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 145
+\TU/PTSerif(1)/b/n/10 143 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 146
+\TU/PTSerif(1)/b/n/10 144 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 147
+\TU/PTSerif(1)/b/n/10 145 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 148
+\TU/PTSerif(1)/b/n/10 146 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 149
+\TU/PTSerif(1)/b/n/10 147 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 150
+\TU/PTSerif(1)/b/n/10 148 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 151
+\TU/PTSerif(1)/b/n/10 149 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 152
+\TU/PTSerif(1)/b/n/10 150 
+ []
+
+[7]
+Overfull \hbox (1.95pt too wide) detected at line 153
+\TU/PTSerif(1)/b/n/10 151 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 154
+\TU/PTSerif(1)/b/n/10 152 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 155
+\TU/PTSerif(1)/b/n/10 153 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 156
+\TU/PTSerif(1)/b/n/10 154 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 157
+\TU/PTSerif(1)/b/n/10 155 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 158
+\TU/PTSerif(1)/b/n/10 156 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 159
+\TU/PTSerif(1)/b/n/10 157 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 160
+\TU/PTSerif(1)/b/n/10 158 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 161
+\TU/PTSerif(1)/b/n/10 159 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 162
+\TU/PTSerif(1)/b/n/10 160 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 163
+\TU/PTSerif(1)/b/n/10 161 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 164
+\TU/PTSerif(1)/b/n/10 162 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 165
+\TU/PTSerif(1)/b/n/10 163 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 166
+\TU/PTSerif(1)/b/n/10 164 
+ []
+
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+
+Overfull \hbox (1.95pt too wide) detected at line 167
+\TU/PTSerif(1)/b/n/10 165 
+ []
+
+
+Overfull \hbox (1.95pt too wide) detected at line 168
+\TU/PTSerif(1)/b/n/10 166 
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `pesni.toc'.
+
+ [8]
+runsystem(makeindex pesni.idx)...executed.
+
+ (./pesni.ind)
+runsystem(makeindex artists.idx)...executed.
+
+ (./artists.ind) (./songs.tex
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
 
  []
 
-[5]) (./pesni.aux)
+[9
+
+
+
+
+
+\indexentry{А кто-то третий}{9}
+\indexentry{Народные Песни!А кто-то третий}{9}
+]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[10
+\indexentry{Ах, мамочка}{10}
+\indexentry{Народные Песни!Ах, мамочка}{10}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--118
+
+ []
+
+[11]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+[12
+\indexentry{Ах, Самара-Городок}{12}
+\indexentry{Народные Песни!Ах, Самара-Городок}{12}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--196
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 247--251
+
+ []
+
+[14
+\indexentry{Ах, судьба моя, судьба}{14}
+\indexentry{Народные Песни!Ах, судьба моя, судьба}{14}
+\indexentry{Надежда Кадышева!Ах, судьба моя, судьба}{14}
+] [15]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
+
+ []
+
+[16
+\indexentry{Ах ты, степь широкая}{16}
+\indexentry{Народные Песни!Ах ты, степь широкая}{16}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[17
+\indexentry{Ах, вы, сени, мои сени}{17}
+\indexentry{Народные Песни!Ах, вы, сени, мои сени}{17}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--353
+
+ []
+
+[18]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[19
+\indexentry{Александра}{19}
+\indexentry{Разные Песни!Александра}{19}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--443
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 499--503
+
+ []
+
+[21
+\indexentry{Андрюша}{21}
+\indexentry{Патриотические и Военные Песни!Андрюша}{21}
+] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 547--551
+
+ []
+
+[23
+\indexentry{Барыня}{23}
+\indexentry{Народные Песни!Барыня}{23}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 590--598
+
+ []
+
+[24
+\indexentry{Белые розы}{24}
+\indexentry{Разные Песни!Белые розы}{24}
+\indexentry{Юрий Шатунов!Белые розы}{24}
+]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--641
+
+ []
+
+[25
+\indexentry{Березы}{25}
+\indexentry{Русские Романсы!Березы}{25}
+\indexentry{Любэ!Березы}{25}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 685--692
+
+ []
+
+[26
+\indexentry{Бородино}{26}
+\indexentry{Патриотические и Военные Песни!Бородино}{26}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 705--708
+
+ []
+
+[27
+\indexentry{Боже, Царя храни!}{27}
+\indexentry{Патриотические и Военные Песни!Боже, Царя храни!}{27}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--766
+
+ []
+
+[28
+\indexentry{Братка Беларус}{28}
+\indexentry{Украинские и Белорусские Песни!Братка Беларус}{28}
+] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 811--818
+
+ []
+
+[30
+\indexentry{Будь счастлив}{30}
+\indexentry{Народные Песни!Будь счастлив}{30}
+\indexentry{Надежда Кадышева!Будь счастлив}{30}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 868--872
+
+ []
+
+[31
+\indexentry{Было двенадцать разбойников}{31}
+\indexentry{Народные Песни!Было двенадцать разбойников}{31}
+] [32
+\indexentry{Бывали дни веселые}{32}
+\indexentry{Народные Песни!Бывали дни веселые}{32}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 940--944
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 984--986
+
+ []
+
+[34
+\indexentry{Чарочка (Ей)}{34}
+\indexentry{Разные Песни!Чарочка (Ей)}{34}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
+
+ []
+
+[35
+\indexentry{Чарочка (Им)}{35}
+\indexentry{Разные Песни!Чарочка (Им)}{35}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[36
+\indexentry{Челита}{36}
+\indexentry{Разные Песни!Челита}{36}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1099--1102
+
+ []
+
+[37] [38
+\indexentry{Черные глаза}{38}
+\indexentry{Разные Песни!Черные глаза}{38}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1177
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1231
+
+ []
+
+[40
+\indexentry{Черный ворон}{40}
+\indexentry{Казачьи Песни!Черный ворон}{40}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1281
+
+ []
+
+[41
+\indexentry{Червона рута}{41}
+\indexentry{Украинские и Белорусские Песни!Червона рута}{41}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1331--1335
+
+ []
+
+[42
+\indexentry{Что может быть лучше России}{42}
+\indexentry{Русские Романсы!Что может быть лучше России}{42}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1374--1378
+
+ []
+
+[43
+\indexentry{Давай, дружок, на посошок}{43}
+\indexentry{Народные Песни!Давай, дружок, на посошок}{43}
+\indexentry{Надежда Кадышева!Давай, дружок, на посошок}{43}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1417--1421
+
+ []
+
+[44
+\indexentry{Детство}{44}
+\indexentry{Разные Песни!Детство}{44}
+\indexentry{Юрий Шатунов!Детство}{44}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1441--1445
+
+ []
+
+[45
+\indexentry{Дни мои}{45}
+\indexentry{Православные Песни!Дни мои}{45}
+] [46
+\indexentry{Домик стоит над рекою}{46}
+\indexentry{Русские Романсы!Домик стоит над рекою}{46}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1519--1523
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1569--1577
+
+ []
+
+[48
+\indexentry{Дорогой длинною}{48}
+\indexentry{Русские Романсы!Дорогой длинною}{48}
+] [49
+\indexentry{Эх, дороги}{49}
+\indexentry{Русские Романсы!Эх, дороги}{49}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1648--1652
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 1693--1696
+
+ []
+
+[51
+\indexentry{Эй, Ухнем!}{51}
+\indexentry{Народные Песни!Эй, Ухнем!}{51}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1734--1738
+
+ []
+
+[52
+\indexentry{Гимн Российской Федерации}{52}
+\indexentry{Патриотические и Военные Песни!Гимн Российской Федерации}{52}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1779--1785
+
+ []
+
+[53
+\indexentry{Главное - что есть ты у меня}{53}
+\indexentry{Разные Песни!Главное - что есть ты у меня}{53}
+\indexentry{Любэ!Главное - что есть ты у меня}{53}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1835--1845
+
+ []
+
+[54
+\indexentry{Голубой вагон}{54}
+\indexentry{Детские Песни!Голубой вагон}{54}
+] [55]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 1895--1899
+
+ []
+
+[56
+\indexentry{Горіла сосна палала}{56}
+\indexentry{Украинские и Белорусские Песни!Горіла сосна палала}{56}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1937--1941
+
+ []
+
+[57
+\indexentry{Грустные ивы}{57}
+\indexentry{Патриотические и Военные Песни!Грустные ивы}{57}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1979--1983
+
+ []
+
+[58
+\indexentry{И кто его знает}{58}
+\indexentry{Народные Песни!И кто его знает}{58}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2009--2013
+
+ []
+
+[59
+\indexentry{Ивушки}{59}
+\indexentry{Народные Песни!Ивушки}{59}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2053--2059
+
+ []
+
+[60
+\indexentry{Из-за этой хаты}{60}
+\indexentry{Казачьи Песни!Из-за этой хаты}{60}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2109--2113
+
+ []
+
+[61
+\indexentry{Из-за острова на стрежень}{61}
+\indexentry{Народные Песни!Из-за острова на стрежень}{61}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 2157--2161
+
+ []
+
+[62
+\indexentry{Кабы не было зимы}{62}
+\indexentry{Детские Песни!Кабы не было зимы}{62}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2206--2210
+
+ []
+
+[63
+\indexentry{Как хотела меня мать}{63}
+\indexentry{Народные Песни!Как хотела меня мать}{63}
+\indexentry{Надежда Кадышева!Как хотела меня мать}{63}
+] [64
+\indexentry{Как молоды мы были}{64}
+\indexentry{Патриотические и Военные Песни!Как молоды мы были}{64}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2296
+
+ []
+
+[65]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 2337--2346
+
+ []
+
+[66
+\indexentry{Как здорово что все мы здесь}{66}
+\indexentry{Патриотические и Военные Песни!Как здорово что все мы здесь}{66}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2384--2388
+
+ []
+
+[67
+\indexentry{Каким ты был}{67}
+\indexentry{Казачьи Песни!Каким ты был}{67}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2416--2418
+
+ []
+
+[68
+\indexentry{Калинка}{68}
+\indexentry{Народные Песни!Калинка}{68}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2450--2454
+
+ []
+
+[69
+\indexentry{Катюша}{69}
+\indexentry{Народные Песни!Катюша}{69}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2510--2514
+
+ []
+
+[70
+\indexentry{Когда б имел златые горы}{70}
+\indexentry{Народные Песни!Когда б имел златые горы}{70}
+] [71]
+Underfull \hbox (badness 10000) in paragraph at lines 2558--2562
+
+ []
+
+[72
+\indexentry{Когда мы были на войне}{72}
+\indexentry{Казачьи Песни!Когда мы были на войне}{72}
+] [73
+\indexentry{Когда-нибудь}{73}
+\indexentry{Народные Песни!Когда-нибудь}{73}
+\indexentry{Надежда Кадышева!Когда-нибудь}{73}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2621--2629
+
+ []
+
+[74]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+[75
+\indexentry{Комбат}{75}
+\indexentry{Патриотические и Военные Песни!Комбат}{75}
+\indexentry{Любэ!Комбат}{75}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2689--2690
+
+ []
+
+[76]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 2729--2733
+
+ []
+
+[77
+\indexentry{Конь}{77}
+\indexentry{Патриотические и Военные Песни!Конь}{77}
+\indexentry{Любэ!Конь}{77}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2786--2790
+
+ []
+
+[78
+\indexentry{Коробейники}{78}
+\indexentry{Народные Песни!Коробейники}{78}
+\indexentry{Надежда Кадышева!Коробейники}{78}
+] [79]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[80
+\indexentry{Крылатые качели}{80}
+\indexentry{Детские Песни!Крылатые качели}{80}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2850--2856
+
+ []
+
+[81]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 2882--2886
+
+ []
+
+[82
+\indexentry{Купалiнка}{82}
+\indexentry{Украинские и Белорусские Песни!Купалiнка}{82}
+]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 2925--2929
+
+ []
+
+[83
+\indexentry{Ликуй и пой Земля}{83}
+\indexentry{Народные Песни!Ликуй и пой Земля}{83}
+\indexentry{Надежда Кадышева!Ликуй и пой Земля}{83}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2979--2983
+
+ []
+
+[84
+\indexentry{Любо, братцы, любо}{84}
+\indexentry{Казачьи Песни!Любо, братцы, любо}{84}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3017--3021
+
+ []
+
+[85
+\indexentry{Малиновый звон}{85}
+\indexentry{Русские Романсы!Малиновый звон}{85}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3065--3069
+
+ []
+
+[86
+\indexentry{Миленький ты мой}{86}
+\indexentry{Народные Песни!Миленький ты мой}{86}
+] [87
+\indexentry{Миллион алых роз}{87}
+\indexentry{Русские Романсы!Миллион алых роз}{87}
+\indexentry{Алла Пугачева!Миллион алых роз}{87}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3134--3142
+
+ []
+
+[88]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 3192--3195
+
+ []
+
+[89
+\indexentry{Младшая сестрёнка}{89}
+\indexentry{Разные Песни!Младшая сестрёнка}{89}
+\indexentry{Любэ!Младшая сестрёнка}{89}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3234--3238
+
+ []
+
+[90
+\indexentry{Мне не жаль ничего}{90}
+\indexentry{Народные Песни!Мне не жаль ничего}{90}
+\indexentry{Надежда Кадышева!Мне не жаль ничего}{90}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3258--3262
+
+ []
+
+[91
+\indexentry{Молитва}{91}
+\indexentry{Православные Песни!Молитва}{91}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3298--3310
+
+ []
+
+[92
+\indexentry{Москва златоглавая}{92}
+\indexentry{Народные Песни!Москва златоглавая}{92}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3366--3370
+
+ []
+
+[93
+\indexentry{Мурка}{93}
+\indexentry{Народные Песни!Мурка}{93}
+] [94]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 3420--3424
+
+ []
+
+[95
+\indexentry{Мы желаем счастья вам}{95}
+\indexentry{Разные Песни!Мы желаем счастья вам}{95}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3475--3479
+
+ []
+
+[96
+\indexentry{На горе колхоз}{96}
+\indexentry{Народные Песни!На горе колхоз}{96}
+\indexentry{Надежда Кадышева!На горе колхоз}{96}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 3523--3527
+
+ []
+
+[97
+\indexentry{На теплоходе музыка играет}{97}
+\indexentry{Разные Песни!На теплоходе музыка играет}{97}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3583--3587
+
+ []
+
+[98
+\indexentry{Надежда}{98}
+\indexentry{Разные Песни!Надежда}{98}
+] [99]
+Underfull \hbox (badness 10000) in paragraph at lines 3643--3647
+
+ []
+
+[100
+\indexentry{Налей, налей, бокалы полней}{100}
+\indexentry{Народные Песни!Налей, налей, бокалы полней}{100}
+] [101]
+Underfull \hbox (badness 10000) in paragraph at lines 3691--3696
+
+ []
+
+[102
+\indexentry{Напилася я пьяна}{102}
+\indexentry{Народные Песни!Напилася я пьяна}{102}
+\indexentry{Надежда Кадышева!Напилася я пьяна}{102}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3734--3740
+
+ []
+
+[103
+\indexentry{Не для меня}{103}
+\indexentry{Казачьи Песни!Не для меня}{103}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 3784--3788
+
+ []
+
+[104
+\indexentry{Несе Галя воду}{104}
+\indexentry{Украинские и Белорусские Песни!Несе Галя воду}{104}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3827--3831
+
+ []
+
+[105
+\indexentry{Ничего не получится}{105}
+\indexentry{Народные Песни!Ничего не получится}{105}
+\indexentry{Надежда Кадышева!Ничего не получится}{105}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3883--3886
+
+ []
+
+[106
+\indexentry{Новогодняя ночь}{106}
+\indexentry{Народные Песни!Новогодняя ночь}{106}
+\indexentry{Надежда Кадышева!Новогодняя ночь}{106}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3912--3916
+
+ []
+
+[107
+\indexentry{Очи черные}{107}
+\indexentry{Русские Романсы!Очи черные}{107}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3942--3946
+
+ []
+
+[108
+\indexentry{Одинокая гармонь}{108}
+\indexentry{Народные Песни!Одинокая гармонь}{108}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 3994--4000
+
+ []
+
+[109
+\indexentry{Одна Калина}{109}
+\indexentry{Украинские и Белорусские Песни!Одна Калина}{109}
+\indexentry{София Ротару!Одна Калина}{109}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4026--4030
+
+ []
+
+[110
+\indexentry{Однозвучно гремит колокольчик}{110}
+\indexentry{Народные Песни!Однозвучно гремит колокольчик}{110}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4074--4078
+
+ []
+
+[111
+\indexentry{Ой хмариться, туманиться}{111}
+\indexentry{Украинские и Белорусские Песни!Ой хмариться, туманиться}{111}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4122--4126
+
+ []
+
+[112
+\indexentry{Ой, в вишнёвом саду}{112}
+\indexentry{Украинские и Белорусские Песни!Ой, в вишнёвом саду}{112}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4171--4175
+
+ []
+
+[113
+\indexentry{Ой калина}{113}
+\indexentry{Народные Песни!Ой калина}{113}
+\indexentry{Надежда Кадышева!Ой калина}{113}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4208--4212
+
+ []
+
+[114
+\indexentry{Ой, мороз, мороз}{114}
+\indexentry{Народные Песни!Ой, мороз, мороз}{114}
+\indexentry{Надежда Кадышева!Ой, мороз, мороз}{114}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4269--4273
+
+ []
+
+[115
+\indexentry{Ой, при лужку, при лужке}{115}
+\indexentry{Казачьи Песни!Ой, при лужку, при лужке}{115}
+\indexentry{Надежда Кадышева!Ой, при лужку, при лужке}{115}
+] [116]
+Underfull \hbox (badness 10000) in paragraph at lines 4305--4309
+
+ []
+
+[117
+\indexentry{Ой, то не вечер}{117}
+\indexentry{Народные Песни!Ой, то не вечер}{117}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4337--4345
+
+ []
+
+[118
+\indexentry{Ой, цветет калина}{118}
+\indexentry{Народные Песни!Ой, цветет калина}{118}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4377--4381
+
+ []
+
+[119
+\indexentry{Ойся, ты ойся (Кавказская)}{119}
+\indexentry{Казачьи Песни!Ойся, ты ойся (Кавказская)}{119}
+] [120
+\indexentry{Ойся, ты ойся (Казачья молитва)}{120}
+\indexentry{Казачьи Песни!Ойся, ты ойся (Казачья молитва)}{120}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4455--4459
+
+ []
+
+[121] [122
+\indexentry{Пчелочка златая}{122}
+\indexentry{Народные Песни!Пчелочка златая}{122}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4539--4545
+
+ []
+
+[123]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 4583--4585
+
+ []
+
+[124
+\indexentry{Песенка друзей}{124}
+\indexentry{Детские Песни!Песенка друзей}{124}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4635--4639
+
+ []
+
+[125
+\indexentry{По Дону гуляет}{125}
+\indexentry{Народные Песни!По Дону гуляет}{125}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4683--4687
+
+ []
+
+[126
+\indexentry{По горам Карпатским}{126}
+\indexentry{Казачьи Песни!По горам Карпатским}{126}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4735--4743
+
+ []
+
+[127
+\indexentry{По морям, по волнам}{127}
+\indexentry{Народные Песни!По морям, по волнам}{127}
+] [128]
+Underfull \hbox (badness 10000) in paragraph at lines 4763--4767
+
+ []
+
+[129
+\indexentry{Под окном черёмуха колышется}{129}
+\indexentry{Народные Песни!Под окном черёмуха колышется}{129}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4814--4822
+
+ []
+
+[130
+\indexentry{Подари, берёзка}{130}
+\indexentry{Народные Песни!Подари, берёзка}{130}
+\indexentry{Надежда Кадышева!Подари, берёзка}{130}
+] [131]
+Underfull \hbox (badness 10000) in paragraph at lines 4848--4852
+
+ []
+
+[132
+\indexentry{Подмосковные вечера}{132}
+\indexentry{Русские Романсы!Подмосковные вечера}{132}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4878--4882
+
+ []
+
+[133
+\indexentry{Поезд уходит далеко}{133}
+\indexentry{Казачьи Песни!Поезд уходит далеко}{133}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4890--4912
+
+ []
+
+[134
+\indexentry{Полно вам снежочки}{134}
+\indexentry{Казачьи Песни!Полно вам снежочки}{134}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4963--4970
+
+ []
+
+[135
+\indexentry{Пой, гитара, пой}{135}
+\indexentry{Народные Песни!Пой, гитара, пой}{135}
+\indexentry{Надежда Кадышева!Пой, гитара, пой}{135}
+] [136]
+Underfull \hbox (badness 10000) in paragraph at lines 5014--5018
+
+ []
+
+[137
+\indexentry{Пойду ль, выйду ль я}{137}
+\indexentry{Народные Песни!Пойду ль, выйду ль я}{137}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5061--5065
+
+ []
+
+[138
+\indexentry{Позови меня тихо по имени}{138}
+\indexentry{Разные Песни!Позови меня тихо по имени}{138}
+\indexentry{Любэ!Позови меня тихо по имени}{138}
+]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5103--5107
+
+ []
+
+[139
+\indexentry{Прекрасное далеко}{139}
+\indexentry{Детские Песни!Прекрасное далеко}{139}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5141--5145
+
+ []
+
+[140
+\indexentry{Пусть бегут неуклюже}{140}
+\indexentry{Детские Песни!Пусть бегут неуклюже}{140}
+] [141
+\indexentry{Раз, два, люблю тебя}{141}
+\indexentry{Народные Песни!Раз, два, люблю тебя}{141}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5217--5219
+
+ []
+
+[142]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5269--5273
+
+ []
+
+[143
+\indexentry{Разговор со счастьем}{143}
+\indexentry{Разные Песни!Разговор со счастьем}{143}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5293--5297
+
+ []
+
+[144
+\indexentry{Родина}{144}
+\indexentry{Народные Песни!Родина}{144}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5335--5339
+
+ []
+
+[145
+\indexentry{Ромашка белая}{145}
+\indexentry{Русские Романсы!Ромашка белая}{145}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5363--5365
+
+ []
+
+[146
+\indexentry{Роза}{146}
+\indexentry{Русские Романсы!Роза}{146}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[147
+\indexentry{Розпрягайте, хлопці, коні}{147}
+\indexentry{Украинские и Белорусские Песни!Розпрягайте, хлопці, коні}{147}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5433--5437
+
+ []
+
+[148]
+Underfull \hbox (badness 10000) in paragraph at lines 5478--5483
+
+ []
+
+[149
+\indexentry{С Днём рождения!}{149}
+\indexentry{Народные Песни!С Днём рождения!}{149}
+\indexentry{Надежда Кадышева!С Днём рождения!}{149}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5515--5518
+
+ []
+
+[150
+\indexentry{Серенада Трубадура}{150}
+\indexentry{Детские Песни!Серенада Трубадура}{150}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5575--5579
+
+ []
+
+[151
+\indexentry{Широка река}{151}
+\indexentry{Народные Песни!Широка река}{151}
+\indexentry{Надежда Кадышева!Широка река}{151}
+] [152]
+Underfull \hbox (badness 10000) in paragraph at lines 5617--5621
+
+ []
+
+[153
+\indexentry{Шумел камыш}{153}
+\indexentry{Народные Песни!Шумел камыш}{153}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5665--5669
+
+ []
+
+[154
+\indexentry{Синий платочек}{154}
+\indexentry{Патриотические и Военные Песни!Синий платочек}{154}
+] [155
+\indexentry{Сизая голубка}{155}
+\indexentry{Народные Песни!Сизая голубка}{155}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5755--5759
+
+ []
+
+[156]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[157
+\indexentry{Смуглянка-молдаванка}{157}
+\indexentry{Народные Песни!Смуглянка-молдаванка}{157}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5821--5828
+
+ []
+
+[158]
+Underfull \hbox (badness 10000) in paragraph at lines 5872--5876
+
+ []
+
+[159
+\indexentry{Солдатушки, бравы ребятушки}{159}
+\indexentry{Народные Песни!Солдатушки, бравы ребятушки}{159}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 5932--5936
+
+ []
+
+[160
+\indexentry{Соловей}{160}
+\indexentry{Православные Песни!Соловей}{160}
+] [161]
+Underfull \hbox (badness 10000) in paragraph at lines 5974--5978
+
+ []
+
+[162
+\indexentry{Соловей, соловей, пташечка}{162}
+\indexentry{Патриотические и Военные Песни!Соловей, соловей, пташечка}{162}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6008--6011
+
+ []
+
+[163
+\indexentry{Спят усталые игрушки}{163}
+\indexentry{Детские Песни!Спят усталые игрушки}{163}
+] [164
+\indexentry{Среди долины ровныя}{164}
+\indexentry{Народные Песни!Среди долины ровныя}{164}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6085--6089
+
+ []
+
+[165]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6110--6114
+
+ []
+
+[166
+\indexentry{Старый клен}{166}
+\indexentry{Русские Романсы!Старый клен}{166}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6158--6162
+
+ []
+
+[167
+\indexentry{Степ, да степ кругом!}{167}
+\indexentry{Народные Песни!Степ, да степ кругом!}{167}
+] [168
+\indexentry{Там шли два брата}{168}
+\indexentry{Казачьи Песни!Там шли два брата}{168}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6225--6228
+
+ []
+
+[169]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6258--6262
+
+ []
+
+[170
+\indexentry{Там за туманами}{170}
+\indexentry{Разные Песни!Там за туманами}{170}
+\indexentry{Любэ!Там за туманами}{170}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6297--6299
+
+ []
+
+[171
+\indexentry{Течёт ручей}{171}
+\indexentry{Народные Песни!Течёт ручей}{171}
+\indexentry{Надежда Кадышева!Течёт ручей}{171}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6349--6353
+
+ []
+
+[172
+\indexentry{Темная ночь}{172}
+\indexentry{Патриотические и Военные Песни!Темная ночь}{172}
+] [173
+\indexentry{Тhose Were The Days}{173}
+\indexentry{Разные Песни!Тhose Were The Days}{173}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6411--6418
+
+ []
+
+[174]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[175
+\indexentry{Ти ж мене підманула}{175}
+\indexentry{Украинские и Белорусские Песни!Ти ж мене підманула}{175}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[176]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6546--6550
+
+ []
+
+[177]
+Underfull \hbox (badness 10000) in paragraph at lines 6577--6581
+
+ []
+
+[178
+\indexentry{То не ветер ветку клонит}{178}
+\indexentry{Народные Песни!То не ветер ветку клонит}{178}
+\indexentry{Надежда Кадышева!То не ветер ветку клонит}{178}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6619--6623
+
+ []
+
+[179
+\indexentry{Тонкая рябина}{179}
+\indexentry{Народные Песни!Тонкая рябина}{179}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6660--6666
+
+ []
+
+[180
+\indexentry{Тополя}{180}
+\indexentry{Русские Романсы!Тополя}{180}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[181
+\indexentry{Три ангела}{181}
+\indexentry{Православные Песни!Три ангела}{181}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6728--6732
+
+ []
+
+[182]
+Underfull \hbox (badness 10000) in paragraph at lines 6771--6775
+
+ []
+
+[183
+\indexentry{У церкви стояла карета}{183}
+\indexentry{Народные Песни!У церкви стояла карета}{183}
+\indexentry{Надежда Кадышева!У церкви стояла карета}{183}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6814--6818
+
+ []
+
+[184
+\indexentry{Уходи горе}{184}
+\indexentry{Народные Песни!Уходи горе}{184}
+\indexentry{Надежда Кадышева!Уходи горе}{184}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6864--6866
+
+ []
+
+[185
+\indexentry{Улыбка}{185}
+\indexentry{Детские Песни!Улыбка}{185}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6901--6903
+
+ []
+
+[186
+\indexentry{Уральская рябинушка}{186}
+\indexentry{Народные Песни!Уральская рябинушка}{186}
+\indexentry{Надежда Кадышева!Уральская рябинушка}{186}
+] [187
+\indexentry{В лесу прифронтовом}{187}
+\indexentry{Патриотические и Военные Песни!В лесу прифронтовом}{187}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 6961--6969
+
+ []
+
+[188]
+Underfull \hbox (badness 10000) in paragraph at lines 7001--7005
+
+ []
+
+[189
+\indexentry{В роще пел соловушка}{189}
+\indexentry{Народные Песни!В роще пел соловушка}{189}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[190
+\indexentry{Вьюн над водой}{190}
+\indexentry{Православные Песни!Вьюн над водой}{190}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7079--7083
+
+ []
+
+[191]
+Underfull \hbox (badness 10000) in paragraph at lines 7109--7113
+
+ []
+
+[192
+\indexentry{В землянке}{192}
+\indexentry{Патриотические и Военные Песни!В землянке}{192}
+] [193
+\indexentry{Вдоль да по речке}{193}
+\indexentry{Народные Песни!Вдоль да по речке}{193}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7172--7176
+
+ []
+
+[194]
+Underfull \hbox (badness 10000) in paragraph at lines 7230--7234
+
+ []
+
+[195
+\indexentry{Вдоль по Питерской}{195}
+\indexentry{Народные Песни!Вдоль по Питерской}{195}
+] [196]
+Underfull \hbox (badness 10000) in paragraph at lines 7266--7268
+
+ []
+
+[197
+\indexentry{Вдоль по улице метелица метёт}{197}
+\indexentry{Народные Песни!Вдоль по улице метелица метёт}{197}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7308--7313
+
+ []
+
+[198
+\indexentry{Вечер на рейде}{198}
+\indexentry{Патриотические и Военные Песни!Вечер на рейде}{198}
+] [199
+\indexentry{Вечерний звон}{199}
+\indexentry{Русские Романсы!Вечерний звон}{199}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7375--7379
+
+ []
+
+[200]
+Underfull \hbox (badness 10000) in paragraph at lines 7430--7434
+
+ []
+
+[201
+\indexentry{Ветренный день}{201}
+\indexentry{Народные Песни!Ветренный день}{201}
+\indexentry{Надежда Кадышева!Ветренный день}{201}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7466--7470
+
+ []
+
+[202
+\indexentry{Виновата ли я}{202}
+\indexentry{Народные Песни!Виновата ли я}{202}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7502--7506
+
+ []
+
+[203
+\indexentry{Висить ябко, висить}{203}
+\indexentry{Украинские и Белорусские Песни!Висить ябко, висить}{203}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7550--7554
+
+ []
+
+[204
+\indexentry{Вместе весело шагать}{204}
+\indexentry{Детские Песни!Вместе весело шагать}{204}
+] [205
+\indexentry{Во кузнице}{205}
+\indexentry{Народные Песни!Во кузнице}{205}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7623--7626
+
+ []
+
+[206]
+Underfull \hbox (badness 10000) in paragraph at lines 7674--7677
+
+ []
+
+[207
+\indexentry{Во поле береза стояла}{207}
+\indexentry{Народные Песни!Во поле береза стояла}{207}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7710--7714
+
+ []
+
+[208
+\indexentry{Вот кто-то с горочки спустился}{208}
+\indexentry{Народные Песни!Вот кто-то с горочки спустился}{208}
+\indexentry{Надежда Кадышева!Вот кто-то с горочки спустился}{208}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 7758--7762
+
+ []
+
+[209
+\indexentry{Всего то навсего}{209}
+\indexentry{Православные Песни!Всего то навсего}{209}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7818--7822
+
+ []
+
+[210
+\indexentry{Встань за Веру, Русская земля!}{210}
+\indexentry{Патриотические и Военные Песни!Встань за Веру, Русская земля!}{210}
+
+] [211]
+Underfull \hbox (badness 10000) in paragraph at lines 7854--7858
+
+ []
+
+[212
+\indexentry{Выйду на улицу}{212}
+\indexentry{Народные Песни!Выйду на улицу}{212}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 7914--7918
+
+ []
+
+[213
+\indexentry{Взвейтесь соколы орлами}{213}
+\indexentry{Патриотические и Военные Песни!Взвейтесь соколы орлами}{213}
+] [214]
+Underfull \hbox (badness 10000) in paragraph at lines 7973--7981
+
+ []
+
+[215
+\indexentry{Я не колдунья}{215}
+\indexentry{Народные Песни!Я не колдунья}{215}
+\indexentry{Надежда Кадышева!Я не колдунья}{215}
+] [216] [217
+\indexentry{Я сама любовь}{217}
+\indexentry{Народные Песни!Я сама любовь}{217}
+\indexentry{Надежда Кадышева!Я сама любовь}{217}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8056--8060
+
+ []
+
+[218]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif Italic/OT:script=lat
+n;language=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 8110--8114
+
+ []
+
+[219
+\indexentry{Йихав козак за Дунай}{219}
+\indexentry{Украинские и Белорусские Песни!Йихав козак за Дунай}{219}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 8141--8145
+
+ []
+
+[220
+\indexentry{За тихой рекою}{220}
+\indexentry{Православные Песни!За тихой рекою}{220}
+\indexentry{Сергей Трофимов!За тихой рекою}{220}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8190--8194
+
+ []
+
+[221
+\indexentry{Заплутавшее счастье}{221}
+\indexentry{Народные Песни!Заплутавшее счастье}{221}
+\indexentry{Надежда Кадышева!Заплутавшее счастье}{221}
+]
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̈ (U+0308) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 8232--8236
+
+ []
+
+[222
+\indexentry{Засвистали козаченьки}{222}
+\indexentry{Украинские и Белорусские Песни!Засвистали козаченьки}{222}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif Bold/OT:script=latn;
+language=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+[223
+\indexentry{Житейское море}{223}
+\indexentry{Православные Песни!Житейское море}{223}
+]
+Missing character: There is no ̆ (U+0306) in font PT Serif/OT:script=latn;langu
+age=dflt;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 8298--8302
+
+ []
+
+[224]
+Underfull \hbox (badness 10000) in paragraph at lines 8346--8350
+
+ []
+
+[225
+\indexentry{Живет моя отрада}{225}
+\indexentry{Народные Песни!Живет моя отрада}{225}
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8382--8386
+
+ []
+
+[226
+\indexentry{Журавли}{226}
+\indexentry{Патриотические и Военные Песни!Журавли}{226}
+]) (./pesni.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5320 strings out of 476132
- 145949 string characters out of 5796521
- 1920627 words of memory out of 5000000
- 27193 multiletter control sequences out of 15000+600000
+ 5631 strings out of 476132
+ 150983 string characters out of 5796521
+ 1923627 words of memory out of 5000000
+ 27492 multiletter control sequences out of 15000+600000
  560989 words of font info for 68 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 93i,6n,107p,296b,243s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,6n,107p,296b,334s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on pesni.pdf (5 pages).
+Output written on pesni.pdf (226 pages).
