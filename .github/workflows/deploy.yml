@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          submodules: recursive
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -31,7 +33,7 @@ jobs:
 
       - name: Install TeX Live
         run: |
-          sudo apt-get install -y texlive-latex-base texlive-latex-recommended texlive-latex-extra
+          sudo apt-get install -y texlive-xetex texlive-fonts-recommended texlive-fonts-extra fonts-liberation texlive-lang-cyrillic
 
       - name: Build site
         run: npm run build
