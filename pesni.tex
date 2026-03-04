@@ -1,0 +1,29 @@
+\documentclass{article}
+\usepackage{polyglossia}
+\setmainlanguage{russian}
+\setotherlanguage{english}
+\setmainfont{Liberation Serif}
+\newfontfamily\russianfont{Liberation Serif}
+\usepackage{graphicx}
+\usepackage{makeidx}
+
+\title{Пессеник}
+\author{Адриан Метленко}
+\date{\today}
+
+\makeindex
+
+\begin{document}
+
+\maketitle
+\clearpage
+
+\tableofcontents
+\clearpage
+
+\printindex
+\clearpage
+
+\input{songs.tex}
+
+\end{document}

@@ -1,0 +1,4 @@
+\xpginauxfiletrue 
+\selectlanguage *{russian}
+\contentsline {section}{\numberline {1}Боже, Царя храни!}{4}{}%
+\contentsline {section}{\numberline {2}Гимн Российской Федерации}{5}{}%
