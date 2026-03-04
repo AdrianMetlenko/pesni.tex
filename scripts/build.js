@@ -21,6 +21,7 @@ async function build() {
     await execa(pdflatexPath, ["-interaction=nonstopmode", "main.tex"], { cwd: buildDir, stdio: "inherit" }); // run twice for TOC etc.
 
     console.log("PDF generated in build/");
+    console.log("Cleaning up...");
     
     // Create index.html redirecting to the PDF
     const indexContent = `<!DOCTYPE html>
