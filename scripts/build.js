@@ -11,7 +11,13 @@ async function build() {
 
     // Compile LilyPond files
     console.log("Compiling LilyPond files...");
-    await execa("lilypond", ["-o", "music/example", "music/example.ly"], { cwd: buildDir, stdio: "inherit" });
+    const musicDir = path.join(buildDir, "music");
+    const lyFiles = (await fs.readdir(musicDir)).filter(f => f.endsWith(".ly"));
+    for (const file of lyFiles) {
+        const baseName = path.basename(file, ".ly");
+        console.log(`Compiling ${file}...`);
+        await execa("lilypond", ["-o", `music/${baseName}`, `music/${file}`], { cwd: buildDir, stdio: "inherit" });
+    }
 
     // Compile LaTeX
     console.log("Compiling LaTeX (pass 1)...");
