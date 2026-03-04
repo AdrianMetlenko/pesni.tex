@@ -32,6 +32,9 @@ async function build() {
         if (songData.category) {
             songsTex += `\\index{${songData.category}!${songData.name}}\n`;
         }
+        if (songData.performing_artist) {
+            songsTex += `\\index[artists]{${songData.performing_artist}!${songData.name}}\n`;
+        }
         songsTex += "\n";
         
         for (const line of songData.lyrics) {
@@ -52,13 +55,16 @@ async function build() {
     console.log("Compiling LaTeX (pass 1)...");
     const latexPath = process.env.LATEX_PATH || "xelatex";
     const mainFile = "pesni.tex";
-    await execa(latexPath, ["-interaction=nonstopmode", mainFile], { cwd: buildDir, stdio: "inherit" });
+    await execa(latexPath, ["-interaction=nonstopmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" });
     console.log("Compiling Index...");
+    // imakeidx automatically runs makeindex via -shell-escape, 
+    // but we can also do it manually for safety or if shell-escape is disabled.
     await execa("makeindex", [mainFile.replace(".tex", ".idx")], { cwd: buildDir, stdio: "inherit" });
+    await execa("makeindex", ["artists.idx"], { cwd: buildDir, stdio: "inherit" });
     console.log("Compiling LaTeX (pass 2)...");
-    await execa(latexPath, ["-interaction=nonstopmode", mainFile], { cwd: buildDir, stdio: "inherit" }); // run twice for TOC etc.
+    await execa(latexPath, ["-interaction=nonstopmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" }); // run twice for TOC etc.
     console.log("Compiling LaTeX (pass 3)...");
-    await execa(latexPath, ["-interaction=nonstopmode", mainFile], { cwd: buildDir, stdio: "inherit" });
+    await execa(latexPath, ["-interaction=nonstopmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" });
 
     console.log("PDF generated in build/");
     

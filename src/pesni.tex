@@ -2,16 +2,17 @@
 \usepackage{polyglossia}
 \setmainlanguage{russian}
 \setotherlanguage{english}
-\setmainfont{Liberation Serif}
-\newfontfamily\russianfont{Liberation Serif}
+\setmainfont{PT Serif}
+\newfontfamily\russianfont{PT Serif}
 \usepackage{graphicx}
-\usepackage{makeidx}
+\usepackage{imakeidx}
 
-\title{Пессеник}
+\makeindex[title=Алфавитный указатель]
+\makeindex[name=artists,title=Исполнители]
+
+\title{Песенник}
 \author{Адриан Метленко}
 \date{\today}
-
-\makeindex
 
 \begin{document}
 
@@ -22,6 +23,7 @@
 \clearpage
 
 \printindex
+\printindex[artists]
 \clearpage
 
 \input{songs.tex}
