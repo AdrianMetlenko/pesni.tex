@@ -27,3 +27,6 @@ pdf/
 .Trashes
 ehthumbs.db
 Thumbs.db
+build_output.txt
+build_output_hyperref.txt
+final_build_test.txt

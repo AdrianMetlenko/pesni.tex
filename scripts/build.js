@@ -23,48 +23,70 @@ async function build() {
     console.log("Generating songs.tex...");
     const songsDir = path.resolve("db/json_songs");
     const jsonFiles = (await fs.readdir(songsDir)).filter(f => f.endsWith(".json"));
-    let songsTex = "";
-
-    for (const file of jsonFiles) {
-        const songData = await fs.readJson(path.join(songsDir, file));
-        songsTex += `\\section{${songData.name}}\n`;
-        songsTex += `\\index{${songData.name}}\n`;
-        if (songData.category) {
-            songsTex += `\\index{${songData.category}!${songData.name}}\n`;
-        }
-        if (songData.performing_artist) {
-            songsTex += `\\index[artists]{${songData.performing_artist}!${songData.name}}\n`;
-        }
-        songsTex += "\n";
-        
-        for (const line of songData.lyrics) {
-            if (line.space) {
-                songsTex += "\\medskip\n\n";
+        let songsTex = "";
+    
+        for (const file of jsonFiles) {
+            const songData = await fs.readJson(path.join(songsDir, file));
+            songsTex += `\\section{${songData.name}}\n`;
+            songsTex += `\\index{${songData.name}}\n`;
+            if (songData.category) {
+                songsTex += `\\index{${songData.category}!${songData.name}}\n`;
             }
-            let lyricLine = line.lyric_line.replace(/[&_%$#_{}~^\\]/g, "\\$&");
-            if (line.chorus) {
-                lyricLine = `\\textit{${lyricLine}}`;
+            if (songData.performing_artist) {
+                songsTex += `\\index[artists]{${songData.performing_artist}!${songData.name}}\n`;
             }
-            songsTex += lyricLine + "\\\\\n";
+            songsTex += "\n";
+            
+            let inVerse = false;
+            for (let i = 0; i < songData.lyrics.length; i++) {
+                const line = songData.lyrics[i];
+                const nextLine = songData.lyrics[i + 1];
+    
+                if (line.space || i === 0) {
+                    if (inVerse) {
+                        songsTex += "\\end{minipage}\\par\\medskip\\nobreak\n\n";
+                    }
+                    if (line.space) {
+                        songsTex += "\\medskip\n\n";
+                    }
+                    songsTex += "\\begin{minipage}{\\linewidth}\n";
+                    inVerse = true;
+                }
+                
+                let lyricLine = line.lyric_line.replace(/[&_%$#_{}~^\\]/g, "\\$&");
+                if (line.x_repeat) {
+                    lyricLine = `\\textbf{${lyricLine}}`;
+                }
+                if (line.chorus) {
+                    lyricLine = `\\hspace*{1.5em}${lyricLine}`;
+                }
+                
+                // If the next line doesn't have "space: true", it's part of the same verse.
+                // We use \\* to prevent page break.
+                if (nextLine && !nextLine.space) {
+                    songsTex += lyricLine + "\\\\*\n";
+                } else {
+                    songsTex += lyricLine + "\\\\\n";
+                }
+            }
+            if (inVerse) {
+                songsTex += "\\end{minipage}\n\n";
+            }
+            songsTex += "\\vspace{\\fill}\\newpage\n\n";
         }
-        songsTex += "\\newpage\n\n";
-    }
     await fs.writeFile(path.join(buildDir, "songs.tex"), songsTex);
 
     // Compile LaTeX
-    console.log("Compiling LaTeX (pass 1)...");
+    console.log("Compiling LaTeX...");
     const latexPath = process.env.LATEX_PATH || "xelatex";
     const mainFile = "pesni.tex";
-    await execa(latexPath, ["-interaction=nonstopmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" });
-    console.log("Compiling Index...");
-    // imakeidx automatically runs makeindex via -shell-escape, 
-    // but we can also do it manually for safety or if shell-escape is disabled.
-    await execa("makeindex", [mainFile.replace(".tex", ".idx")], { cwd: buildDir, stdio: "inherit" });
-    await execa("makeindex", ["artists.idx"], { cwd: buildDir, stdio: "inherit" });
-    console.log("Compiling LaTeX (pass 2)...");
-    await execa(latexPath, ["-interaction=nonstopmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" }); // run twice for TOC etc.
-    console.log("Compiling LaTeX (pass 3)...");
-    await execa(latexPath, ["-interaction=nonstopmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" });
+    
+    // We run xelatex twice to ensure TOC and Index are correct.
+    // Three times might be needed for complex cases, but two is usually enough with imakeidx.
+    for (let i = 1; i <= 2; i++) {
+        console.log(`Compiling LaTeX (pass ${i})...`);
+        await execa(latexPath, ["-interaction=batchmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" });
+    }
 
     console.log("PDF generated in build/");
     
