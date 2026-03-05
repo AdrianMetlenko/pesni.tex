@@ -23,17 +23,38 @@ async function build() {
     console.log("Generating songs.tex...");
     const songsDir = path.resolve("db/json_songs");
     const jsonFiles = (await fs.readdir(songsDir)).filter(f => f.endsWith(".json"));
-        let songsTex = "";
     
-        for (const file of jsonFiles) {
-            const songData = await fs.readJson(path.join(songsDir, file));
+    const songsByCategory = {};
+    for (const file of jsonFiles) {
+        const songData = await fs.readJson(path.join(songsDir, file));
+        const category = songData.category || "Разные Песни";
+        if (!songsByCategory[category]) {
+            songsByCategory[category] = [];
+        }
+        songsByCategory[category].push(songData);
+    }
+
+    // Sort categories
+    const categories = Object.keys(songsByCategory).sort();
+
+    let songsTex = "";
+    for (const category of categories) {
+        songsTex += `\\cleardoublepage\n`;
+        songsTex += `\\thispagestyle{empty}\n`;
+        songsTex += `\\vspace*{\\fill}\n`;
+        songsTex += `{\\centering\\huge\\bfseries ${category}\\par}\n`;
+        songsTex += `\\vspace*{\\fill}\n`;
+        songsTex += `\\addcontentsline{toc}{chapter}{${category}}\n`;
+        songsTex += `\\newpage\n`;
+        
+        // Sort songs in category for content
+        const categorySongs = songsByCategory[category].sort((a, b) => a.name.localeCompare(b.name));
+
+        for (const songData of categorySongs) {
             songsTex += `\\section{${songData.name}}\n`;
-            songsTex += `\\index{${songData.name}}\n`;
-            if (songData.category) {
-                songsTex += `\\index{${songData.category}!${songData.name}}\n`;
-            }
+            songsTex += `\\label{song:${songData.name.replace(/\s+/g, '_')}}\n`;
             if (songData.performing_artist) {
-                songsTex += `\\index[artists]{${songData.performing_artist}!${songData.name}}\n`;
+                songsTex += `\\index[artists]{${songData.performing_artist}@\\textbf{${songData.performing_artist}}!${songData.name}}\n`;
             }
             songsTex += "\n";
             
@@ -74,6 +95,7 @@ async function build() {
             }
             songsTex += "\\vspace{\\fill}\\newpage\n\n";
         }
+    }
     await fs.writeFile(path.join(buildDir, "songs.tex"), songsTex);
 
     // Compile LaTeX
@@ -81,9 +103,8 @@ async function build() {
     const latexPath = process.env.LATEX_PATH || "xelatex";
     const mainFile = "pesni.tex";
     
-    // We run xelatex twice to ensure TOC and Index are correct.
-    // Three times might be needed for complex cases, but two is usually enough with imakeidx.
-    for (let i = 1; i <= 2; i++) {
+    // We run xelatex three times to ensure TOC, Labels, and Index are correct.
+    for (let i = 1; i <= 3; i++) {
         console.log(`Compiling LaTeX (pass ${i})...`);
         await execa(latexPath, ["-interaction=batchmode", "-shell-escape", mainFile], { cwd: buildDir, stdio: "inherit" });
     }
