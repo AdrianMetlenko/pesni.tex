@@ -1,4 +1,6 @@
 This is makeindex, version 2.17 [TeX Live 2023] (kpathsea + Thai support).
-Scanning input file artists.idx...done (0 entries accepted, 0 rejected).
-Nothing written in artists.ind.
+Scanning input file artists.idx....done (41 entries accepted, 0 rejected).
+Sorting entries....done (223 comparisons).
+Generating output file artists.ind....done (57 lines written, 0 warnings).
+Output written in artists.ind.
 Transcript written in artists.ilg.

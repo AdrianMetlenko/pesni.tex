@@ -1,168 +1,169 @@
 \xpginauxfiletrue 
 \selectlanguage *{russian}
-\contentsline {section}{\numberline {1}А кто-то третий}{9}{}%
-\contentsline {section}{\numberline {2}Ах, мамочка}{10}{}%
-\contentsline {section}{\numberline {3}Ах, Самара-Городок}{12}{}%
-\contentsline {section}{\numberline {4}Ах, судьба моя, судьба}{14}{}%
-\contentsline {section}{\numberline {5}Ах ты, степь широкая}{16}{}%
-\contentsline {section}{\numberline {6}Ах, вы, сени, мои сени}{17}{}%
-\contentsline {section}{\numberline {7}Александра}{19}{}%
-\contentsline {section}{\numberline {8}Андрюша}{21}{}%
-\contentsline {section}{\numberline {9}Барыня}{23}{}%
-\contentsline {section}{\numberline {10}Белые розы}{24}{}%
-\contentsline {section}{\numberline {11}Березы}{25}{}%
-\contentsline {section}{\numberline {12}Бородино}{26}{}%
-\contentsline {section}{\numberline {13}Боже, Царя храни!}{27}{}%
-\contentsline {section}{\numberline {14}Братка Беларус}{28}{}%
-\contentsline {section}{\numberline {15}Будь счастлив}{30}{}%
-\contentsline {section}{\numberline {16}Было двенадцать разбойников}{31}{}%
-\contentsline {section}{\numberline {17}Бывали дни веселые}{32}{}%
-\contentsline {section}{\numberline {18}Чарочка (Ей)}{34}{}%
-\contentsline {section}{\numberline {19}Чарочка (Им)}{35}{}%
-\contentsline {section}{\numberline {20}Челита}{36}{}%
-\contentsline {section}{\numberline {21}Черные глаза}{38}{}%
-\contentsline {section}{\numberline {22}Черный ворон}{40}{}%
-\contentsline {section}{\numberline {23}Червона рута}{41}{}%
-\contentsline {section}{\numberline {24}Что может быть лучше России}{42}{}%
-\contentsline {section}{\numberline {25}Давай, дружок, на посошок}{43}{}%
-\contentsline {section}{\numberline {26}Детство}{44}{}%
-\contentsline {section}{\numberline {27}Дни мои}{45}{}%
-\contentsline {section}{\numberline {28}Домик стоит над рекою}{46}{}%
-\contentsline {section}{\numberline {29}Дорогой длинною}{48}{}%
-\contentsline {section}{\numberline {30}Эх, дороги}{49}{}%
-\contentsline {section}{\numberline {31}Эй, Ухнем!}{51}{}%
-\contentsline {section}{\numberline {32}Гимн Российской Федерации}{52}{}%
-\contentsline {section}{\numberline {33}Главное - что есть ты у меня}{53}{}%
-\contentsline {section}{\numberline {34}Голубой вагон}{54}{}%
-\contentsline {section}{\numberline {35}Горіла сосна палала}{56}{}%
-\contentsline {section}{\numberline {36}Грустные ивы}{57}{}%
-\contentsline {section}{\numberline {37}И кто его знает}{58}{}%
-\contentsline {section}{\numberline {38}Ивушки}{59}{}%
-\contentsline {section}{\numberline {39}Из-за этой хаты}{60}{}%
-\contentsline {section}{\numberline {40}Из-за острова на стрежень}{61}{}%
-\contentsline {section}{\numberline {41}Кабы не было зимы}{62}{}%
-\contentsline {section}{\numberline {42}Как хотела меня мать}{63}{}%
-\contentsline {section}{\numberline {43}Как молоды мы были}{64}{}%
-\contentsline {section}{\numberline {44}Как здорово что все мы здесь}{66}{}%
-\contentsline {section}{\numberline {45}Каким ты был}{67}{}%
-\contentsline {section}{\numberline {46}Калинка}{68}{}%
-\contentsline {section}{\numberline {47}Катюша}{69}{}%
-\contentsline {section}{\numberline {48}Когда б имел златые горы}{70}{}%
-\contentsline {section}{\numberline {49}Когда мы были на войне}{72}{}%
-\contentsline {section}{\numberline {50}Когда-нибудь}{73}{}%
-\contentsline {section}{\numberline {51}Комбат}{75}{}%
-\contentsline {section}{\numberline {52}Конь}{77}{}%
-\contentsline {section}{\numberline {53}Коробейники}{78}{}%
-\contentsline {section}{\numberline {54}Крылатые качели}{80}{}%
-\contentsline {section}{\numberline {55}Купалiнка}{82}{}%
-\contentsline {section}{\numberline {56}Ликуй и пой Земля}{83}{}%
-\contentsline {section}{\numberline {57}Любо, братцы, любо}{84}{}%
-\contentsline {section}{\numberline {58}Малиновый звон}{85}{}%
-\contentsline {section}{\numberline {59}Миленький ты мой}{86}{}%
-\contentsline {section}{\numberline {60}Миллион алых роз}{87}{}%
-\contentsline {section}{\numberline {61}Младшая сестрёнка}{89}{}%
-\contentsline {section}{\numberline {62}Мне не жаль ничего}{90}{}%
-\contentsline {section}{\numberline {63}Молитва}{91}{}%
-\contentsline {section}{\numberline {64}Москва златоглавая}{92}{}%
-\contentsline {section}{\numberline {65}Мурка}{93}{}%
-\contentsline {section}{\numberline {66}Мы желаем счастья вам}{95}{}%
-\contentsline {section}{\numberline {67}На горе колхоз}{96}{}%
-\contentsline {section}{\numberline {68}На теплоходе музыка играет}{97}{}%
-\contentsline {section}{\numberline {69}Надежда}{98}{}%
-\contentsline {section}{\numberline {70}Налей, налей, бокалы полней}{100}{}%
-\contentsline {section}{\numberline {71}Напилася я пьяна}{102}{}%
-\contentsline {section}{\numberline {72}Не для меня}{103}{}%
-\contentsline {section}{\numberline {73}Несе Галя воду}{104}{}%
-\contentsline {section}{\numberline {74}Ничего не получится}{105}{}%
-\contentsline {section}{\numberline {75}Новогодняя ночь}{106}{}%
-\contentsline {section}{\numberline {76}Очи черные}{107}{}%
-\contentsline {section}{\numberline {77}Одинокая гармонь}{108}{}%
-\contentsline {section}{\numberline {78}Одна Калина}{109}{}%
-\contentsline {section}{\numberline {79}Однозвучно гремит колокольчик}{110}{}%
-\contentsline {section}{\numberline {80}Ой хмариться, туманиться}{111}{}%
-\contentsline {section}{\numberline {81}Ой, в вишнёвом саду}{112}{}%
-\contentsline {section}{\numberline {82}Ой калина}{113}{}%
-\contentsline {section}{\numberline {83}Ой, мороз, мороз}{114}{}%
-\contentsline {section}{\numberline {84}Ой, при лужку, при лужке}{115}{}%
-\contentsline {section}{\numberline {85}Ой, то не вечер}{117}{}%
-\contentsline {section}{\numberline {86}Ой, цветет калина}{118}{}%
-\contentsline {section}{\numberline {87}Ойся, ты ойся (Кавказская)}{119}{}%
-\contentsline {section}{\numberline {88}Ойся, ты ойся (Казачья молитва)}{120}{}%
-\contentsline {section}{\numberline {89}Пчелочка златая}{122}{}%
-\contentsline {section}{\numberline {90}Песенка друзей}{124}{}%
-\contentsline {section}{\numberline {91}По Дону гуляет}{125}{}%
-\contentsline {section}{\numberline {92}По горам Карпатским}{126}{}%
-\contentsline {section}{\numberline {93}По морям, по волнам}{127}{}%
-\contentsline {section}{\numberline {94}Под окном черёмуха колышется}{129}{}%
-\contentsline {section}{\numberline {95}Подари, берёзка}{130}{}%
-\contentsline {section}{\numberline {96}Подмосковные вечера}{132}{}%
-\contentsline {section}{\numberline {97}Поезд уходит далеко}{133}{}%
-\contentsline {section}{\numberline {98}Полно вам снежочки}{134}{}%
-\contentsline {section}{\numberline {99}Пой, гитара, пой}{135}{}%
-\contentsline {section}{\numberline {100}Пойду ль, выйду ль я}{137}{}%
-\contentsline {section}{\numberline {101}Позови меня тихо по имени}{138}{}%
-\contentsline {section}{\numberline {102}Прекрасное далеко}{139}{}%
-\contentsline {section}{\numberline {103}Пусть бегут неуклюже}{140}{}%
-\contentsline {section}{\numberline {104}Раз, два, люблю тебя}{141}{}%
-\contentsline {section}{\numberline {105}Разговор со счастьем}{143}{}%
-\contentsline {section}{\numberline {106}Родина}{144}{}%
-\contentsline {section}{\numberline {107}Ромашка белая}{145}{}%
-\contentsline {section}{\numberline {108}Роза}{146}{}%
-\contentsline {section}{\numberline {109}Розпрягайте, хлопці, коні}{147}{}%
-\contentsline {section}{\numberline {110}С Днём рождения!}{149}{}%
-\contentsline {section}{\numberline {111}Серенада Трубадура}{150}{}%
-\contentsline {section}{\numberline {112}Широка река}{151}{}%
-\contentsline {section}{\numberline {113}Шумел камыш}{153}{}%
-\contentsline {section}{\numberline {114}Синий платочек}{154}{}%
-\contentsline {section}{\numberline {115}Сизая голубка}{155}{}%
-\contentsline {section}{\numberline {116}Смуглянка-молдаванка}{157}{}%
-\contentsline {section}{\numberline {117}Солдатушки, бравы ребятушки}{159}{}%
-\contentsline {section}{\numberline {118}Соловей}{160}{}%
-\contentsline {section}{\numberline {119}Соловей, соловей, пташечка}{162}{}%
-\contentsline {section}{\numberline {120}Спят усталые игрушки}{163}{}%
-\contentsline {section}{\numberline {121}Среди долины ровныя}{164}{}%
-\contentsline {section}{\numberline {122}Старый клен}{166}{}%
-\contentsline {section}{\numberline {123}Степ, да степ кругом!}{167}{}%
-\contentsline {section}{\numberline {124}Там шли два брата}{168}{}%
-\contentsline {section}{\numberline {125}Там за туманами}{170}{}%
-\contentsline {section}{\numberline {126}Течёт ручей}{171}{}%
-\contentsline {section}{\numberline {127}Темная ночь}{172}{}%
-\contentsline {section}{\numberline {128}Тhose Were The Days}{173}{}%
-\contentsline {section}{\numberline {129}Ти ж мене підманула}{175}{}%
-\contentsline {section}{\numberline {130}То не ветер ветку клонит}{178}{}%
-\contentsline {section}{\numberline {131}Тонкая рябина}{179}{}%
-\contentsline {section}{\numberline {132}Тополя}{180}{}%
-\contentsline {section}{\numberline {133}Три ангела}{181}{}%
-\contentsline {section}{\numberline {134}У церкви стояла карета}{183}{}%
-\contentsline {section}{\numberline {135}Уходи горе}{184}{}%
-\contentsline {section}{\numberline {136}Улыбка}{185}{}%
-\contentsline {section}{\numberline {137}Уральская рябинушка}{186}{}%
-\contentsline {section}{\numberline {138}В лесу прифронтовом}{187}{}%
-\contentsline {section}{\numberline {139}В роще пел соловушка}{189}{}%
-\contentsline {section}{\numberline {140}Вьюн над водой}{190}{}%
-\contentsline {section}{\numberline {141}В землянке}{192}{}%
-\contentsline {section}{\numberline {142}Вдоль да по речке}{193}{}%
-\contentsline {section}{\numberline {143}Вдоль по Питерской}{195}{}%
-\contentsline {section}{\numberline {144}Вдоль по улице метелица метёт}{197}{}%
-\contentsline {section}{\numberline {145}Вечер на рейде}{198}{}%
-\contentsline {section}{\numberline {146}Вечерний звон}{199}{}%
-\contentsline {section}{\numberline {147}Ветренный день}{201}{}%
-\contentsline {section}{\numberline {148}Виновата ли я}{202}{}%
-\contentsline {section}{\numberline {149}Висить ябко, висить}{203}{}%
-\contentsline {section}{\numberline {150}Вместе весело шагать}{204}{}%
-\contentsline {section}{\numberline {151}Во кузнице}{205}{}%
-\contentsline {section}{\numberline {152}Во поле береза стояла}{207}{}%
-\contentsline {section}{\numberline {153}Вот кто-то с горочки спустился}{208}{}%
-\contentsline {section}{\numberline {154}Всего то навсего}{209}{}%
-\contentsline {section}{\numberline {155}Встань за Веру, Русская земля!}{210}{}%
-\contentsline {section}{\numberline {156}Выйду на улицу}{212}{}%
-\contentsline {section}{\numberline {157}Взвейтесь соколы орлами}{213}{}%
-\contentsline {section}{\numberline {158}Я не колдунья}{215}{}%
-\contentsline {section}{\numberline {159}Я сама любовь}{217}{}%
-\contentsline {section}{\numberline {160}Йихав козак за Дунай}{219}{}%
-\contentsline {section}{\numberline {161}За тихой рекою}{220}{}%
-\contentsline {section}{\numberline {162}Заплутавшее счастье}{221}{}%
-\contentsline {section}{\numberline {163}Засвистали козаченьки}{222}{}%
-\contentsline {section}{\numberline {164}Житейское море}{223}{}%
-\contentsline {section}{\numberline {165}Живет моя отрада}{225}{}%
-\contentsline {section}{\numberline {166}Журавли}{226}{}%
+\contentsline {section}{\numberline {1}А кто-то третий}{13}{section.1}%
+\contentsline {section}{\numberline {2}Ах, мамочка}{14}{section.2}%
+\contentsline {section}{\numberline {3}Ах, Самара-Городок}{17}{section.3}%
+\contentsline {section}{\numberline {4}Ах, судьба моя, судьба}{20}{section.4}%
+\contentsline {section}{\numberline {5}Ах ты, степь широкая}{22}{section.5}%
+\contentsline {section}{\numberline {6}Ах, вы, сени, мои сени}{23}{section.6}%
+\contentsline {section}{\numberline {7}Александра}{25}{section.7}%
+\contentsline {section}{\numberline {8}Андрюша}{28}{section.8}%
+\contentsline {section}{\numberline {9}Барыня}{30}{section.9}%
+\contentsline {section}{\numberline {10}Белые розы}{32}{section.10}%
+\contentsline {section}{\numberline {11}Березы}{34}{section.11}%
+\contentsline {section}{\numberline {12}Бородино}{36}{section.12}%
+\contentsline {section}{\numberline {13}Боже, Царя храни!}{38}{section.13}%
+\contentsline {section}{\numberline {14}Братка Беларус}{39}{section.14}%
+\contentsline {section}{\numberline {15}Будь счастлив}{41}{section.15}%
+\contentsline {section}{\numberline {16}Было двенадцать разбойников}{43}{section.16}%
+\contentsline {section}{\numberline {17}Бывали дни веселые}{45}{section.17}%
+\contentsline {section}{\numberline {18}Чарочка (Ей)}{47}{section.18}%
+\contentsline {section}{\numberline {19}Чарочка (Им)}{49}{section.19}%
+\contentsline {section}{\numberline {20}Челита}{51}{section.20}%
+\contentsline {section}{\numberline {21}Черные глаза}{53}{section.21}%
+\contentsline {section}{\numberline {22}Черный ворон}{56}{section.22}%
+\contentsline {section}{\numberline {23}Червона рута}{58}{section.23}%
+\contentsline {section}{\numberline {24}Что может быть лучше России}{60}{section.24}%
+\contentsline {section}{\numberline {25}Давай, дружок, на посошок}{62}{section.25}%
+\contentsline {section}{\numberline {26}Детство}{64}{section.26}%
+\contentsline {section}{\numberline {27}Дни мои}{66}{section.27}%
+\contentsline {section}{\numberline {28}Домик стоит над рекою}{67}{section.28}%
+\contentsline {section}{\numberline {29}Дорогой длинною}{70}{section.29}%
+\contentsline {section}{\numberline {30}Эх, дороги}{72}{section.30}%
+\contentsline {section}{\numberline {31}Эй, Ухнем!}{74}{section.31}%
+\contentsline {section}{\numberline {32}Гимн Российской Федерации}{76}{section.32}%
+\contentsline {section}{\numberline {33}Главное - что есть ты у меня}{78}{section.33}%
+\contentsline {section}{\numberline {34}Голубой вагон}{80}{section.34}%
+\contentsline {section}{\numberline {35}Горіла сосна палала}{82}{section.35}%
+\contentsline {section}{\numberline {36}Грустные ивы}{84}{section.36}%
+\contentsline {section}{\numberline {37}И кто его знает}{86}{section.37}%
+\contentsline {section}{\numberline {38}Ивушки}{88}{section.38}%
+\contentsline {section}{\numberline {39}Из-за этой хаты}{89}{section.39}%
+\contentsline {section}{\numberline {40}Из-за острова на стрежень}{91}{section.40}%
+\contentsline {section}{\numberline {41}Кабы не было зимы}{93}{section.41}%
+\contentsline {section}{\numberline {42}Как хотела меня мать}{95}{section.42}%
+\contentsline {section}{\numberline {43}Как молоды мы были}{97}{section.43}%
+\contentsline {section}{\numberline {44}Как здорово что все мы здесь}{100}{section.44}%
+\contentsline {section}{\numberline {45}Каким ты был}{102}{section.45}%
+\contentsline {section}{\numberline {46}Калинка}{104}{section.46}%
+\contentsline {section}{\numberline {47}Катюша}{105}{section.47}%
+\contentsline {section}{\numberline {48}Когда б имел златые горы}{106}{section.48}%
+\contentsline {section}{\numberline {49}Когда мы были на войне}{108}{section.49}%
+\contentsline {section}{\numberline {50}Когда-нибудь}{110}{section.50}%
+\contentsline {section}{\numberline {51}Комбат}{112}{section.51}%
+\contentsline {section}{\numberline {52}Конь}{114}{section.52}%
+\contentsline {section}{\numberline {53}Коробейники}{116}{section.53}%
+\contentsline {section}{\numberline {54}Крылатые качели}{118}{section.54}%
+\contentsline {section}{\numberline {55}Купалiнка}{120}{section.55}%
+\contentsline {section}{\numberline {56}Ликуй и пой Земля}{121}{section.56}%
+\contentsline {section}{\numberline {57}Любо, братцы, любо}{123}{section.57}%
+\contentsline {section}{\numberline {58}Малиновый звон}{125}{section.58}%
+\contentsline {section}{\numberline {59}Миленький ты мой}{126}{section.59}%
+\contentsline {section}{\numberline {60}Миллион алых роз}{128}{section.60}%
+\contentsline {section}{\numberline {61}Младшая сестрёнка}{131}{section.61}%
+\contentsline {section}{\numberline {62}Мне не жаль ничего}{133}{section.62}%
+\contentsline {section}{\numberline {63}Молитва}{135}{section.63}%
+\contentsline {section}{\numberline {64}Москва златоглавая}{136}{section.64}%
+\contentsline {section}{\numberline {65}Мурка}{138}{section.65}%
+\contentsline {section}{\numberline {66}Мы желаем счастья вам}{140}{section.66}%
+\contentsline {section}{\numberline {67}На горе колхоз}{142}{section.67}%
+\contentsline {section}{\numberline {68}На теплоходе музыка играет}{144}{section.68}%
+\contentsline {section}{\numberline {69}Надежда}{146}{section.69}%
+\contentsline {section}{\numberline {70}Налей, налей, бокалы полней}{148}{section.70}%
+\contentsline {section}{\numberline {71}Напилася я пьяна}{150}{section.71}%
+\contentsline {section}{\numberline {72}Не для меня}{152}{section.72}%
+\contentsline {section}{\numberline {73}Несе Галя воду}{154}{section.73}%
+\contentsline {section}{\numberline {74}Ничего не получится}{156}{section.74}%
+\contentsline {section}{\numberline {75}Новогодняя ночь}{158}{section.75}%
+\contentsline {section}{\numberline {76}Очи черные}{160}{section.76}%
+\contentsline {section}{\numberline {77}Одинокая гармонь}{161}{section.77}%
+\contentsline {section}{\numberline {78}Одна Калина}{162}{section.78}%
+\contentsline {section}{\numberline {79}Однозвучно гремит колокольчик}{164}{section.79}%
+\contentsline {section}{\numberline {80}Ой хмариться, туманиться}{165}{section.80}%
+\contentsline {section}{\numberline {81}Ой, в вишнёвом саду}{167}{section.81}%
+\contentsline {section}{\numberline {82}Ой калина}{169}{section.82}%
+\contentsline {section}{\numberline {83}Ой, мороз, мороз}{171}{section.83}%
+\contentsline {section}{\numberline {84}Ой, при лужку, при лужке}{172}{section.84}%
+\contentsline {section}{\numberline {85}Ой, то не вечер}{174}{section.85}%
+\contentsline {section}{\numberline {86}Ой, цветет калина}{175}{section.86}%
+\contentsline {section}{\numberline {87}Ойся, ты ойся (Кавказская)}{176}{section.87}%
+\contentsline {section}{\numberline {88}Ойся, ты ойся (Казачья молитва)}{177}{section.88}%
+\contentsline {section}{\numberline {89}Пчелочка златая}{180}{section.89}%
+\contentsline {section}{\numberline {90}Песенка друзей}{183}{section.90}%
+\contentsline {section}{\numberline {91}По Дону гуляет}{184}{section.91}%
+\contentsline {section}{\numberline {92}По горам Карпатским}{186}{section.92}%
+\contentsline {section}{\numberline {93}По морям, по волнам}{188}{section.93}%
+\contentsline {section}{\numberline {94}Под окном черёмуха колышется}{190}{section.94}%
+\contentsline {section}{\numberline {95}Подари, берёзка}{191}{section.95}%
+\contentsline {section}{\numberline {96}Подмосковные вечера}{193}{section.96}%
+\contentsline {section}{\numberline {97}Поезд уходит далеко}{194}{section.97}%
+\contentsline {section}{\numberline {98}Полно вам снежочки}{195}{section.98}%
+\contentsline {section}{\numberline {99}Пой, гитара, пой}{196}{section.99}%
+\contentsline {section}{\numberline {100}Пойду ль, выйду ль я}{198}{section.100}%
+\contentsline {section}{\numberline {101}Позови меня тихо по имени}{200}{section.101}%
+\contentsline {section}{\numberline {102}Прекрасное далеко}{202}{section.102}%
+\contentsline {section}{\numberline {103}Пусть бегут неуклюже}{204}{section.103}%
+\contentsline {section}{\numberline {104}Раз, два, люблю тебя}{205}{section.104}%
+\contentsline {section}{\numberline {105}Разговор со счастьем}{207}{section.105}%
+\contentsline {section}{\numberline {106}Родина}{209}{section.106}%
+\contentsline {section}{\numberline {107}Ромашка белая}{210}{section.107}%
+\contentsline {section}{\numberline {108}Роза}{212}{section.108}%
+\contentsline {section}{\numberline {109}Розпрягайте, хлопці, коні}{213}{section.109}%
+\contentsline {section}{\numberline {110}С Днём рождения!}{215}{section.110}%
+\contentsline {section}{\numberline {111}Серенада Трубадура}{217}{section.111}%
+\contentsline {section}{\numberline {112}Широка река}{218}{section.112}%
+\contentsline {section}{\numberline {113}Шумел камыш}{220}{section.113}%
+\contentsline {section}{\numberline {114}Синий платочек}{222}{section.114}%
+\contentsline {section}{\numberline {115}Сизая голубка}{224}{section.115}%
+\contentsline {section}{\numberline {116}Смуглянка-молдаванка}{227}{section.116}%
+\contentsline {section}{\numberline {117}Солдатушки, бравы ребятушки}{230}{section.117}%
+\contentsline {section}{\numberline {118}Соловей}{232}{section.118}%
+\contentsline {section}{\numberline {119}Соловей, соловей, пташечка}{234}{section.119}%
+\contentsline {section}{\numberline {120}Спят усталые игрушки}{236}{section.120}%
+\contentsline {section}{\numberline {121}Среди долины ровныя}{237}{section.121}%
+\contentsline {section}{\numberline {122}Старый клен}{240}{section.122}%
+\contentsline {section}{\numberline {123}Степ, да степ кругом!}{241}{section.123}%
+\contentsline {section}{\numberline {124}Там шли два брата}{243}{section.124}%
+\contentsline {section}{\numberline {125}Там за туманами}{245}{section.125}%
+\contentsline {section}{\numberline {126}Течёт ручей}{246}{section.126}%
+\contentsline {section}{\numberline {127}Темная ночь}{247}{section.127}%
+\contentsline {section}{\numberline {128}Тhose Were The Days}{249}{section.128}%
+\contentsline {section}{\numberline {129}Ти ж мене підманула}{251}{section.129}%
+\contentsline {section}{\numberline {130}То не ветер ветку клонит}{255}{section.130}%
+\contentsline {section}{\numberline {131}Тонкая рябина}{256}{section.131}%
+\contentsline {section}{\numberline {132}Тополя}{258}{section.132}%
+\contentsline {section}{\numberline {133}Три ангела}{260}{section.133}%
+\contentsline {section}{\numberline {134}У церкви стояла карета}{262}{section.134}%
+\contentsline {section}{\numberline {135}Уходи горе}{264}{section.135}%
+\contentsline {section}{\numberline {136}Улыбка}{266}{section.136}%
+\contentsline {section}{\numberline {137}Уральская рябинушка}{268}{section.137}%
+\contentsline {section}{\numberline {138}В лесу прифронтовом}{269}{section.138}%
+\contentsline {section}{\numberline {139}В роще пел соловушка}{271}{section.139}%
+\contentsline {section}{\numberline {140}Вьюн над водой}{272}{section.140}%
+\contentsline {section}{\numberline {141}В землянке}{275}{section.141}%
+\contentsline {section}{\numberline {142}Вдоль да по речке}{276}{section.142}%
+\contentsline {section}{\numberline {143}Вдоль по Питерской}{278}{section.143}%
+\contentsline {section}{\numberline {144}Вдоль по улице метелица метёт}{280}{section.144}%
+\contentsline {section}{\numberline {145}Вечер на рейде}{281}{section.145}%
+\contentsline {section}{\numberline {146}Вечерний звон}{283}{section.146}%
+\contentsline {section}{\numberline {147}Ветренный день}{285}{section.147}%
+\contentsline {section}{\numberline {148}Виновата ли я}{287}{section.148}%
+\contentsline {section}{\numberline {149}Висить ябко, висить}{288}{section.149}%
+\contentsline {section}{\numberline {150}Вместе весело шагать}{289}{section.150}%
+\contentsline {section}{\numberline {151}Во кузнице}{291}{section.151}%
+\contentsline {section}{\numberline {152}Во поле береза стояла}{293}{section.152}%
+\contentsline {section}{\numberline {153}Вот кто-то с горочки спустился}{295}{section.153}%
+\contentsline {section}{\numberline {154}Всего то навсего}{296}{section.154}%
+\contentsline {section}{\numberline {155}Встань за Веру, Русская земля!}{298}{section.155}%
+\contentsline {section}{\numberline {156}Выйду на улицу}{300}{section.156}%
+\contentsline {section}{\numberline {157}Взвейтесь соколы орлами}{301}{section.157}%
+\contentsline {section}{\numberline {158}Я не колдунья}{303}{section.158}%
+\contentsline {section}{\numberline {159}Я сама любовь}{305}{section.159}%
+\contentsline {section}{\numberline {160}Йихав козак за Дунай}{308}{section.160}%
+\contentsline {section}{\numberline {161}За тихой рекою}{310}{section.161}%
+\contentsline {section}{\numberline {162}Заплутавшее счастье}{311}{section.162}%
+\contentsline {section}{\numberline {163}Засвистали козаченьки}{313}{section.163}%
+\contentsline {section}{\numberline {164}Житейское море}{315}{section.164}%
+\contentsline {section}{\numberline {165}Живет моя отрада}{317}{section.165}%
+\contentsline {section}{\numberline {166}Журавли}{319}{section.166}%
+\xpginauxfilefalse 

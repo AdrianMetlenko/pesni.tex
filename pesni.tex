@@ -1,4 +1,8 @@
-\documentclass{article}
+\documentclass[14pt]{extarticle}
+\usepackage[a5paper, margin=1.5cm, footskip=0.5cm]{geometry}
+\makeatletter
+\renewcommand{\numberline}[1]{#1\hspace{1em}}
+\makeatother
 \usepackage{polyglossia}
 \setmainlanguage{russian}
 \setotherlanguage{english}
@@ -6,6 +10,18 @@
 \newfontfamily\russianfont{PT Serif}
 \usepackage{graphicx}
 \usepackage{imakeidx}
+\usepackage[unicode=true]{hyperref}
+\hypersetup{hidelinks}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{\hyperlink{toc}{к Содержанию}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 
 \makeindex[title=Алфавитный указатель]
 \makeindex[name=artists,title=Исполнители]
@@ -19,13 +35,14 @@
 \maketitle
 \clearpage
 
+\hypertarget{toc}{}
 \tableofcontents
 \clearpage
 
+\input{songs.tex}
+
+\clearpage
 \printindex
 \printindex[artists]
-\clearpage
-
-\input{songs.tex}
 
 \end{document}
