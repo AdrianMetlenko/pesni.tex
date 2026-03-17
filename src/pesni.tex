@@ -11,19 +11,21 @@
 \newfontfamily\russianfont{PT Serif}
 \usepackage{graphicx}
 \usepackage{imakeidx}
-\usepackage[unicode=true]{hyperref}
+\usepackage[unicode=true, linktoc=all]{hyperref}
 \hypersetup{hidelinks}
 
 \setlength{\parindent}{0pt}
 
 \usepackage{fancyhdr}
 \fancyhf{}
-\fancyfoot[L]{\hyperlink{toc}{Оглавление} \quad \hyperlink{artists}{Исполнители}}
-\fancyfoot[R]{\thepage}
+\newcommand{\footerbutton}[2]{\begingroup\setlength{\fboxsep}{2pt}\fbox{\small\hyperlink{#1}{#2}}\endgroup}
+\fancyfoot[C]{\footerbutton{toc}{Оглавление} \hfill \footerbutton{artists}{Исполнители} \hfill \footerbutton{composers}{Композиторы} \hfill \footerbutton{lyricists}{Поэты} \hfill \thepage}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0.4pt}
 
 \makeindex[name=artists,title=Исполнители,columns=1]
+\makeindex[name=composers,title=Композиторы,columns=1]
+\makeindex[name=lyricists,title=Поэты,columns=1]
 
 \title{Песенник}
 \author{Адриан Метленко}
@@ -44,5 +46,13 @@
 \clearpage
 \hypertarget{artists}{}
 \printindex[artists]
+
+\clearpage
+\hypertarget{composers}{}
+\printindex[composers]
+
+\clearpage
+\hypertarget{lyricists}{}
+\printindex[lyricists]
 
 \end{document}

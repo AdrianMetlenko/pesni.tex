@@ -53,8 +53,14 @@ async function build() {
         for (const songData of categorySongs) {
             songsTex += `\\section{${songData.name}}\n`;
             songsTex += `\\label{song:${songData.name.replace(/\s+/g, '_')}}\n`;
-            if (songData.performing_artist) {
+            if (songData.performing_artist && songData.performing_artist !== "Народная") {
                 songsTex += `\\index[artists]{${songData.performing_artist}@\\textbf{${songData.performing_artist}}!${songData.name}}\n`;
+            }
+            if (songData.author_music && songData.author_music !== "Народная") {
+                songsTex += `\\index[composers]{${songData.author_music}@\\textbf{${songData.author_music}}!${songData.name}}\n`;
+            }
+            if (songData.author_lyrics && songData.author_lyrics !== "Народная") {
+                songsTex += `\\index[lyricists]{${songData.author_lyrics}@\\textbf{${songData.author_lyrics}}!${songData.name}}\n`;
             }
             songsTex += "\n";
             
